@@ -1,2 +1,2 @@
 # UTN-TUP-SPD-Comision4-Nihuel-Spinelli
-Repositorio para sistemas de procesamiento de datos de la carrera Tecnicatura Universitaria en Programacion
+Repositorio para Sistemas de Procesamiento de Datos de la Carrera Tecnicatura Universitaria en Programación de la UTN Facultad Regional Rosario
